@@ -18,22 +18,22 @@ Proporciona módulos de control presupuestal, seguimiento de gastos, pagos a pro
 ## 📸 Capturas de pantalla
 
 ### Pantalla principal
-![GLAL Home](glal_redacted_1.png)
+![GLAL Home](glal_final_1.png)
 
 ### Módulo de Presupuesto
-![Presupuesto](glal_redacted_2.png)
+![Presupuesto](glal_final_2.png)
 
 ### Reportes y gráficas
-![Reportes](glal_redacted_3.png)
+![Reportes](glal_final_3.png)
 
 ### Pagos a proveedores
-![Pagos](glal_redacted_4.png)
+![Pagos](glal_final_4.png)
 
 ### Órdenes de compra
-![Órdenes](glal_redacted_5.png)
+![Órdenes](glal_final_5.png)
 
 ### Configuración de autorizaciones
-![Autorizaciones](glal_redacted_6.png)
+![Autorizaciones](glal_final_6.png)
 
 ### COnfiguracion de otras pantallas
 ![Autorizaciones generales](Responsive.jpg)
