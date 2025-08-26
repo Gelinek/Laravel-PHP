@@ -35,6 +35,9 @@ Proporciona módulos de control presupuestal, seguimiento de gastos, pagos a pro
 ### Configuración de autorizaciones
 ![Autorizaciones](glal_redacted_6.png)
 
+### COnfiguracion de otras pantallas
+![Autorizaciones generales](Responsive.jpg)
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
